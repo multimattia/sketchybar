@@ -1,0 +1,3 @@
+export BACKGROUND_HIGHLIGHT=0xffc2c4f2
+export TEXT=0xff39515e
+export BLACK=0x00000000
